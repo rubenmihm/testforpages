@@ -51,7 +51,7 @@ function reset(){
 function updatelink(){
     var hometeamsend = new URLSearchParams();
     hometeamsend.append("homename", hometeam = document.getElementById("hometeam"))
-    location.href = "HTTP://SITE.COM/PAGE.HTML?" + para.toString();
+    location.href = "https://rubenmihm.github.io/testforpages/court1.html/" + para.toString();
 }
 
 
